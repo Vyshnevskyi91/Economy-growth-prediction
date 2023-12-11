@@ -1,3 +1,3 @@
 # Patents-per-year-prediction
 
-![](https://images.app.goo.gl/H1khoFfcKLPw74Qb7)
+![](https://www.researchgate.net/figure/Map-of-patent-applications-filed-in-various-jurisdictions_fig17_339434526)
