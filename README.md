@@ -63,3 +63,5 @@ strong multicollinearity or other numerical problems.
 #### Decided that better chose will be Polynomial Model
 #### After test/split training got such results
 ![](prediction.png)
+## Model implemenatation
+#### Asked model to build prediction of Patents growth in future years
