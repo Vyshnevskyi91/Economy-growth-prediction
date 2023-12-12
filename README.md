@@ -24,7 +24,7 @@
 #### We Build lineplot Mean Patents Over Years through all countries
 ![](mean_patents.png)
 #### Checked the correlation between Patents given and GDP Growth Rate
-#### The meanings is poor correlated as expected
+#### The meanings is poorly correlated as expected
 ![](correlation.png)
 
 ## Building Linear Regression Model
