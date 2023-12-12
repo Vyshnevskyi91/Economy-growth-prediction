@@ -15,5 +15,6 @@
 
 ## Generated line plot for TOP 5 patent holder countries
 <img src="/TOP5_patents.png" alt="Top 5 Patents" width="1000000000" height="500">
-## Line plot GDP Rate for TOP 5 patent holders
 
+## Line plot GDP Rate for TOP 5 patent holders
+![](TOP5_GDP.png)
