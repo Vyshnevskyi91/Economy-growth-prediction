@@ -4,4 +4,4 @@
 
 ![](TOP5_patents.png)
 
-<img src="/TOP5_patents.png" alt="Top 5 Patents" width="1000000000" height="550">
+<img src="/TOP5_patents.png" alt="Top 5 Patents" width="1000000000" height="500">
