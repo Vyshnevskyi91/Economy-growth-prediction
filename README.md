@@ -22,3 +22,4 @@
 ## Exprolatory Data Anlisys
 #### After cleaning data and making sure that NaN will not influence our model.
 #### We Build lineplot Mean Patents Over Years through all countries
+![](mean_patents.png)
