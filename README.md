@@ -27,7 +27,7 @@
 #### The meanings is poor correlated as expected
 ![](correlation.png)
 
-## Building Model
+## Building Linear Regression Model
 #### Tested model with Year and Patents data
 #### The R-squared value is 0.918, indicating that approximately 91.8% of the variance in 'Patents' is explained by the 'Year' variable. The adjusted R-squared, which accounts for the number of predictors, is also high at 0.916.
 #### The F-statistic is 458.5, and the associated p-value is close to zero (7.13e-24). This suggests that the model is statistically significant as a whole.
