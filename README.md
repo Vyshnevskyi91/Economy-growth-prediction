@@ -17,4 +17,4 @@
 <img src="/TOP5_patents.png" alt="Top 5 Patents" width="1000000000" height="500">
 
 ## Line plot GDP Rate for TOP 5 patent holders
-![](TOP5_GDP.png)
+<img src="/TOP5_GDP.png" alt="Top 5 Patents" width="100" height="500">
