@@ -60,3 +60,6 @@ Notes:
 [2] The condition number is large, 3.23e+05. This might indicate that there are
 strong multicollinearity or other numerical problems.
 ```
+#### Decided that better chose will be Polynomial Model
+#### After test/split training got such results
+![](prediction.png)
