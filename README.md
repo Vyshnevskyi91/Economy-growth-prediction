@@ -18,3 +18,7 @@
 
 ## Line plot GDP Rate for TOP 5 patent holders
 ![](TOP5_GDP.png)
+
+## Exprolatory Data Anlisys
+#### After cleaning data and making sure that NaN will not influence our model.
+#### We Build lineplot Mean Patents Over Years through all countries
