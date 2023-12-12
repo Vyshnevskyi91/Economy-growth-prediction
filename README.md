@@ -14,7 +14,7 @@
 | Antigua and Barbuda |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |             8 |             7 |             7 |            15 |            10 |            12 |             8 |            10 |           nan |             3 |             8 |             6 |      nan   |        3.8 |      nan   |      nan   |        nan |      nan   |        nan |      nan   |      nan   |        nan |          3 |        2.2 |        nan |        nan |        nan |        nan |        nan |        nan |        4.7 |        3.7 |        nan |      nan   |      nan   |        nan |        nan |        nan |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |        3.4 |      nan   |        3.8 |        3.8 |      nan   |        3.1 |      nan   |        4.3 |        nan |        nan |      nan   |
 
 ## Generated line plot for TOP 5 patent holder countries
-<img src="/TOP5_patents.png" alt="Top 5 Patents" width="1000000000" height="500">
+![](TOP5_patents.png)
 
 ## Line plot GDP Rate for TOP 5 patent holders
-<img src="/TOP5_GDP.png" alt="Top 5 Patents" width="1200" height="500">
+![](TOP5_GDP.png)
