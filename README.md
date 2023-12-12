@@ -65,3 +65,4 @@ strong multicollinearity or other numerical problems.
 ![](prediction.png)
 ## Model implemenatation
 #### Asked model to build prediction of Patents growth in future years
+![](years.png)
