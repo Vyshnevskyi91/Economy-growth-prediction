@@ -23,7 +23,7 @@
 #### After cleaning data and making sure that NaN will not influence our model.
 #### We Build lineplot Mean Patents Over Years through all countries
 ![](mean_patents.png)
-#### Checked the correlation between Patents made and GDP Growth Rate
+#### Checked the correlation between Patents given and GDP Growth Rate
 #### The meanings is poor correlated as expected
 ![](correlation.png)
 
