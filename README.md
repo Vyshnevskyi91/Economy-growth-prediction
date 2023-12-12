@@ -26,21 +26,6 @@
 | Bhutan                 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |             4 |             7 |           nan |             8 |             5 |             3 |            10 |            18 |             6 |             7 |             5 |      nan   |      nan   |      nan   |        7.3 |        7.6 |      nan   |      nan   |      nan   |      nan   |        6.2 |      nan   |      nan   |      nan   |      nan   |      nan   |        6   |        6   |      nan   |        6   |        7.1 |        6.9 |        7   |      nan   |      nan   |        6.9 |        6.7 |        7.1 |      nan   |      nan   |        5.8 |      nan   |      nan   |        6.5 |      nan   |      nan   |        6.2 |        7.4 |        6.3 |      nan   |      nan   |        nan |      nan   |      nan   |
 | Bolivia                |           125 |           132 |           107 |            81 |            58 |            46 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |            88 |           117 |           123 |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           303 |           nan |           253 |           336 |           nan |           nan |           159 |           232 |           226 |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |        2.5 |        2.9 |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |        2.5 |      nan   |        2.5 |        2.7 |      nan   |      nan   |      nan   |      nan   |      nan   |        3.4 |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |        2.2 |        nan |      nan   |        3.5 |
 | Bosnia and Herzegovina |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           nan |           128 |           273 |           361 |           nan |           274 |           396 |           372 |           217 |           nan |            71 |           nan |            65 |            55 |            16 |            29 |            43 |           nan |            66 |            99 |            96 |            59 |            55 |            61 |            51 |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |       10.7 |        4.4 |      nan   |        5.1 |        3.9 |        6.3 |        4.2 |        5.7 |        6   |        5.6 |      nan   |      nan   |      nan   |      nan   |      nan   |      nan   |        4.3 |      nan   |      nan   |        3.8 |      nan   |        nan |        7.4 |        4.1 | -->
-  <table>
-    <thead>
-      <tr>
-        <th>Header1</th>
-        <th>Header2</th>
-        <!-- ... more headers ... -->
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Data1</td>
-        <td>Data2</td>
-        <!-- ... more data ... -->
-      </tr>
-    </tbody>
-  </table>
-</div>
+  
+  
 <img src="/TOP5_patents.png" alt="Top 5 Patents" width="1000000000" height="500">
