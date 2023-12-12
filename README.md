@@ -30,7 +30,6 @@
 ## Building Model
 #### Tested model with Year and Patents data
 
-OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                Patents   R-squared:                       0.918
 Model:                            OLS   Adj. R-squared:                  0.916
@@ -52,8 +51,3 @@ Prob(Omnibus):                  0.000   Jarque-Bera (JB):                3.324
 Skew:                           0.036   Prob(JB):                        0.190
 Kurtosis:                       1.640   Cond. No.                     3.23e+05
 ==============================================================================
-
-Notes:
-[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The condition number is large, 3.23e+05. This might indicate that there are
-strong multicollinearity or other numerical problems.
