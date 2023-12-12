@@ -26,3 +26,34 @@
 #### Checked the correlation between Patents made and GDP Growth Rate
 #### The meanings is poor correlated as expected
 ![](correlation.png)
+
+## Building Model
+#### Tested model with Year and Patents data
+
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                Patents   R-squared:                       0.918
+Model:                            OLS   Adj. R-squared:                  0.916
+Method:                 Least Squares   F-statistic:                     458.5
+Date:                Tue, 12 Dec 2023   Prob (F-statistic):           7.13e-24
+Time:                        14:17:54   Log-Likelihood:                -376.78
+No. Observations:                  43   AIC:                             757.6
+Df Residuals:                      41   BIC:                             761.1
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -8.192e+05   3.89e+04    -21.042      0.000   -8.98e+05   -7.41e+05
+x1           416.5945     19.456     21.412      0.000     377.302     455.887
+==============================================================================
+Omnibus:                       17.457   Durbin-Watson:                   0.236
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):                3.324
+Skew:                           0.036   Prob(JB):                        0.190
+Kurtosis:                       1.640   Cond. No.                     3.23e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.23e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
