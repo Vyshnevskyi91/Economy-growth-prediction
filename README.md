@@ -66,4 +66,4 @@ strong multicollinearity or other numerical problems.
 ## Model implemenatation
 #### Asked model to build prediction of Patents growth in future years
 ![](years.png)
-#### So model predicted continuing growth in terms of Patents holders
+#### So model predicted continuous growth in terms of Patents holders
